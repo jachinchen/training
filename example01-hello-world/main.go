@@ -12,9 +12,7 @@ func HelloWorld(userName string) string {
 func main() {
 	a := 1
 	fmt.Printf(HelloWorld("appleBoy"))
-	fmt.Println("一天就學會 Go 語言")
+	fmt.Println(a, "一天就學會 Go 語言")
 
-	if a >= 1 {
-		fmt.Println("a >= 1")
-	}
+	fmt.Println("a >= 1")
 }

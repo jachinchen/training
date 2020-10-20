@@ -7,11 +7,11 @@ var (
 func convert(i interface{}) {
 	switch t := i.(type) {
 	case int:
-		println("i is interger", t)
+		println("i is an integer", t)
 	case string:
-		println("i is string", t)
+		println("i is an string", t)
 	case float64:
-		println("i is float64", t)
+		println("i is an float64", t)
 	default:
 		println("type not found")
 	}

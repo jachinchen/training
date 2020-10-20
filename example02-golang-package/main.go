@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/go-training/training/example02-golang-package/controller"
+	"training/example02-golang-package/controller"
 )
 
 func main() {
