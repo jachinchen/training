@@ -1,15 +1,20 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
+
+//HelloWorld prints hello, username.
+func HelloWorld(userName string) string {
+	return fmt.Sprintf("Hi, %s ", userName)
+}
 
 func main() {
 	a := 1
-	fmt.Printf(HelloWorld("appleboy"))
+	fmt.Printf(HelloWorld("appleBoy"))
 	fmt.Println("一天就學會 Go 語言")
 
-	if (a >= 1) { fmt.Println("a >= 1") }
-}
-
-func HelloWorld(user_name string) string {
-	return fmt.Sprintf("Hi, %s ", user_name)
+	if a >= 1 {
+		fmt.Println("a >= 1")
+	}
 }

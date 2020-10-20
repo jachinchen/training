@@ -18,7 +18,7 @@ Fix and save automatically using `-w` flag: `gofmt -w example01`
 
 ## golint
 
-Try to improve code quailty using `golint` command.
+Try to improve code quality using `golint` command.
 
 ```
 example01/main.go:13:1: exported function HelloWorld should have comment or be unexported
