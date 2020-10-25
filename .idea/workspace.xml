@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6023d9d0-e223-42c1-9fb8-80812899968c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/example01-hello-world/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/example01-hello-world/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example02-golang-package/controller/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/example02-golang-package/controller/hello.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example02-golang-package/import-underscore/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/example02-golang-package/import-underscore/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example02-golang-package/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/example02-golang-package/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +54,44 @@
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build training/example03-if-switch-const/example01-interface-type">
+    <configuration name="go build training/example02-golang-package/import-underscore" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="training" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/example02-golang-package/import-underscore/main.go" />
+      <package value="training/example02-golang-package/import-underscore" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build training/example03-if-switch-const/example01-interface-type" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="training" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/example03-if-switch-const/example01-interface-type/main.go" />
+      <package value="training/example03-if-switch-const/example01-interface-type" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHelloWorld in training/example02-golang-package/controller" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="training" />
+      <working_directory value="$PROJECT_DIR$/example02-golang-package/controller" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="training/example02-golang-package/controller" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestHelloWorld\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build training/example03-if-switch-const/example01-interface-type" />
+        <item itemvalue="Go Test.TestHelloWorld in training/example02-golang-package/controller" />
+        <item itemvalue="Go Build.go build training/example02-golang-package/import-underscore" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +132,22 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1603179969175" />
+    <state width="2005" height="416" key="GridCell.Tab.0.bottom" timestamp="1603250434264">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="416" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1603250434264" />
+    <state width="2005" height="416" key="GridCell.Tab.0.center" timestamp="1603250434264">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="416" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1603250434264" />
+    <state width="2005" height="416" key="GridCell.Tab.0.left" timestamp="1603250434264">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="416" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1603250434264" />
+    <state width="2005" height="416" key="GridCell.Tab.0.right" timestamp="1603250434264">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="416" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1603250434264" />
     <state x="568" y="167" key="SettingsEditor" timestamp="1603180117671">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
